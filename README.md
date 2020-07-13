@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/singhakashkumar/Dicee-Game.svg)](http://hits.dwyl.com/singhakashkumar/Dicee-Game)
+
 # App-3
 
 # Dicee 🎲
